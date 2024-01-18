@@ -6,6 +6,7 @@ i say funny words.
 he/they
 
 i’m interested in a lot of cool shit
+
 right now, i'm learning python and machine learning (that means ai for some of you uneducated folks)
 
 i work with javascript, css, html, python and c (arduino)
