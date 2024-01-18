@@ -1,6 +1,8 @@
 yo i'm ghost twigs.
+
 im pretty neat.
-i say funny words
+i say funny words.
+
 he/they
 
 i’m interested in a lot of cool shit
